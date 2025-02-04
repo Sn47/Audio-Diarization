@@ -15,9 +15,6 @@ This project focuses on extracting and processing audio from video files using P
 - Explore different audio processing techniques.
 - Provide efficient, reusable methods for future projects in audio and video analysis.
 
-To include the identification of **Person 1** and **Person 2** in the **audio diarization** section and the distinction between **speech** and **non-speech**, you can follow this structure in your document. Here's how to integrate the audio diarization and speaker identification methodology along with the existing content.
-
----
 
 ## 3️⃣ Methodology
 
